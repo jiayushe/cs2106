@@ -1,0 +1,20 @@
+echo tc2-1
+echo simple
+echo tc2-2
+/bin/ls
+echo tc2-3
+ls
+echo tc2-4
+clearlyinvalid
+echo tc2-5
+/usr/bin/awk {print$5} sample.txt
+echo tc2-6
+/usr/bin/wc sample.txt
+echo tc2-7
+echo "abc"
+echo tc2-8
+echo ""e-"o" "hi hello" genie
+echo tc2-9
+/usr/bin/awk "{print $5}" sample.txt
+echo tc2-10
+quit

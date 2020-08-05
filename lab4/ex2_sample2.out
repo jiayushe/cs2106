@@ -1,0 +1,17 @@
+disk_create(): Creating disk page 0... OK.
+disk_create(): Creating disk page 1... OK.
+disk_create(): Creating disk page 2... OK.
+disk_create(): Creating disk page 3... OK.
+disk_create(): Creating disk page 4... OK.
+disk_create(): Creating disk page 5... OK.
+disk_create(): Creating disk page 6... OK.
+disk_create(): Creating disk page 7... OK.
+disk_read(): Loading frame 0 from disk page 0... OK.
+disk_read(): Loading frame 1 from disk page 1... OK.
+disk_read(): Loading frame 2 from disk page 2... OK.
+disk_read(): Loading frame 3 from disk page 3... OK.
+Runner: OS detected user process segfault... OK.
+Runner: OS detected user process segfault... OK.
+Runner: OS detected user process segfault... OK.
+disk_read(): Loading frame 0 from disk page 4... OK.
+Runner: Child terminated normally with status 0.

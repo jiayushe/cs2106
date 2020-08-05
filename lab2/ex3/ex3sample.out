@@ -1,0 +1,32 @@
+GENIE >tc3-1
+GENIE >ex2sample
+sample test.txt
+sample.txt
+sample2.txt
+sample3.txt
+GENIE >tc3-2
+GENIE >       8       8      40
+GENIE >tc3-3
+GENIE >rajan
+zygote's
+zygotes
+GENIE >tc3-4
+GENIE >       5
+GENIE >tc3-5
+GENIE >sample test.txt
+sample.txt
+sample2.txt
+sample3.txt
+GENIE >tc3-6
+GENIE >       4
+GENIE >tc3-7
+GENIE >Satish
+ren
+naveen
+GENIE >tc3-8
+GENIE >       3       3      18
+GENIE >tc3-9
+GENIE >/bin/lfd not found
+GENIE >tc3-10
+GENIE >/usr/bin/greb not found
+GENIE >Goodbye!

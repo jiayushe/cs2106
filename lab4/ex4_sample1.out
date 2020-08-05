@@ -1,0 +1,29 @@
+disk_create(): Creating disk page 2... OK.
+disk_read(): Loading frame 0 from disk page 2... OK.
+disk_create(): Creating disk page 1... OK.
+disk_read(): Loading frame 1 from disk page 1... OK.
+disk_create(): Creating disk page 0... OK.
+disk_read(): Loading frame 2 from disk page 0... OK.
+Runner: mmap operation OK, OS mapped page 5.
+disk_create(): Creating disk page 5... OK.
+disk_read(): Loading frame 3 from disk page 5... OK.
+disk_create(): Creating disk page 3... OK.
+disk_read(): Loading frame 0 from disk page 3... OK.
+disk_write(): Writing frame 1 to disk page 1... OK.
+disk_create(): Creating disk page 4... OK.
+disk_read(): Loading frame 1 from disk page 4... OK.
+disk_write(): Writing frame 2 to disk page 0... OK.
+disk_read(): Loading frame 2 from disk page 2... OK.
+disk_write(): Writing frame 3 to disk page 5... OK.
+disk_read(): Loading frame 3 from disk page 1... OK.
+disk_delete(): Deleting disk page 5... OK.
+Runner: munmap operation OK, OS unmapped page 5.
+Runner: mmap operation OK, OS mapped page 5.
+disk_read(): Loading frame 0 from disk page 0... OK.
+disk_create(): Creating disk page 5... OK.
+disk_read(): Loading frame 1 from disk page 5... OK.
+disk_delete(): Deleting disk page 5... OK.
+Runner: munmap operation OK, OS unmapped page 5.
+Runner: munmap operation OK, OS did not unmap any page because page 16 was already unmapped.
+disk_read(): Loading frame 3 from disk page 3... OK.
+Runner: Child terminated normally with status 0.

@@ -1,0 +1,39 @@
+Printing clockwise:
+[Pos 0:0]
+   |
+   v
+[Pos 1:15]
+   |
+   v
+[Pos 2:62]
+   |
+   v
+[Pos 3:93]->[subNode pos 0:9]->[subNode pos 1:81]
+   |
+   v
+[Pos 0:0]
+Printing counter-clockwise:
+[Pos 0:0]
+   |
+   v
+[Pos 3:93]->[subNode pos 0:9]->[subNode pos 1:81]
+   |
+   v
+[Pos 2:62]
+   |
+   v
+[Pos 1:15]
+   |
+   v
+[Pos 0:0]
+Circular List after delete
+Printing clockwise:
+[Pos 0:0]
+   |
+   v
+[Pos 0:0]
+Printing counter-clockwise:
+[Pos 0:0]
+   |
+   v
+[Pos 0:0]

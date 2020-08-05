@@ -1,0 +1,20 @@
+
+echo tc4-1
+set A aaron
+echo tc4-2
+set B bob
+echo tc4-3
+echo $A
+echo tc4-4
+echo $A $B
+echo tc4-5
+unset A
+echo tc4-6
+set A "sample3"
+echo tc4-7
+set T txt
+echo tc4-8
+ls | /usr/bin/grep $A | /usr/bin/grep $T
+echo tc4-9
+ls | /usr/bin/grep $A | /usr/bin/grep $T
+quit

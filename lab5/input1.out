@@ -1,0 +1,20 @@
+S: File runner.c is now open
+S: 101 bytes were read from file runner.c
+F: Could not open file rummer.c
+S: File test.txt is now open
+S: 5 bytes were written to file test.txt
+S: File offset of file test.txt is now at position 3
+S: 1 bytes were read from file test.txt
+S: File offset of file test.txt is now at position 5
+S: 4096 bytes were written to file test.txt
+S: File test.txt was flushed
+S: File test.txt is now closed
+S: File test.txt is now open
+S: 10 bytes were written to file test.txt
+S: File test.txt was flushed
+S: File test.txt is now closed
+S: File runner.c is now closed
+S: File test.txt is now open
+S: 3 bytes were read from file test.txt
+F: File test.text is not open
+S: File test.txt is now closed

@@ -1,0 +1,2 @@
+Correct solution:
+Let the car exiting a section decide which car to enter the section next, i.e. from the roundabout or from outside.

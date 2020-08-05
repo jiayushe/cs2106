@@ -1,0 +1,21 @@
+echo tc3-1
+ls | /usr/bin/grep sample
+echo tc3-2
+/usr/bin/awk {print$5} sample.txt | /usr/bin/wc 
+echo tc3-3
+/usr/bin/sort sample3.txt | /usr/bin/tail -n 3
+echo tc3-4
+/usr/bin/head -n 5 sample3.txt | /usr/bin/wc -l
+echo tc3-5
+ls | /usr/bin/grep sample | /usr/bin/grep txt 
+echo tc3-6
+ls | /usr/bin/grep sample | /usr/bin/grep txt | /usr/bin/wc -l
+echo tc3-7
+/usr/bin/sort sample3.txt | /usr/bin/awk {print$1} sample3.txt | /usr/bin/perl -pe s/rajan/ren/g | /usr/bin/head -7 | /usr/bin/tail -3 | cat
+echo tc3-8
+/usr/bin/sort sample3.txt | /usr/bin/awk {print$1} sample3.txt | /usr/bin/perl -pe s/rajan/ren/g | /usr/bin/head -7 | /usr/bin/tail -3 | cat | /usr/bin/wc
+echo tc3-9
+lfd | /usr/bin/grep sample | /usr/bin/grep txt
+echo tc3-10
+ls | /usr/bin/greb grab | /usr/bin/grep food
+quit

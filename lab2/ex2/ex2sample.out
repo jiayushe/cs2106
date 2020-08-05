@@ -1,0 +1,42 @@
+GENIE >tc2-1
+GENIE >simple
+GENIE >tc2-2
+GENIE >ex2sample
+sample test.txt
+sample.txt
+sample2.txt
+sample3.txt
+GENIE >tc2-3
+GENIE >ex2sample
+sample test.txt
+sample.txt
+sample2.txt
+sample3.txt
+GENIE >tc2-4
+GENIE >/bin/clearlyinvalid not found
+GENIE >tc2-5
+GENIE >545,
+723,
+610,
+118,
+482,
+335,
+271,
+373,
+GENIE >tc2-6
+GENIE >       7      56     322 sample.txt
+GENIE >tc2-7
+GENIE >abc
+GENIE >tc2-8
+GENIE >e-o hi hello genie
+GENIE >tc2-9
+GENIE >545,
+723,
+610,
+118,
+482,
+335,
+271,
+373,
+GENIE >tc2-10
+GENIE >Goodbye!
